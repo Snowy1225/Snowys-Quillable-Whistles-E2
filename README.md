@@ -8,5 +8,4 @@ How to wire your Whistle E2s
 2: wire "quill" to F (you can change it if you want)
 
 if you have any questions or suggestions, let me know.
-my discord is @Snowy#1251
-
+my discord is @Snowy#1200
